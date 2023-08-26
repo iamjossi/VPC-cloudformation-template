@@ -1,5 +1,5 @@
 # VPC-cloudformation-template
-Created a VPC with 3 public subnets, 3 private subnets for the application tier and 3 subnets for the database tier using this AWS cloudformation template
+Created a VPC with 2 public subnets, 2 private subnets for the application tier and 2 private subnets for the database tier using this AWS cloudformation template
 
 This is a link to a diagram of this architecture.
 
